@@ -480,21 +480,21 @@
                  "y":124.435712396569
                 }, 
                 {
-                 "height":31.4837,
-                 "id":22,
-                 "name":"to-basement",
+                 "height":32,
+                 "id":23,
+                 "name":"from-basement",
                  "properties":[
                         {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"basement.tmj#from-office"
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":66.7155,
-                 "x":471.881226839083,
-                 "y":400.293212530699
+                 "width":32,
+                 "x":831.062379567008,
+                 "y":163.907054067329
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -577,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
