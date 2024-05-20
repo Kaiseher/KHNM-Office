@@ -1,5 +1,5 @@
 { "columns":6,
- "image":"KHNM-Office\/tilesets\/WA_Special_Zones.png",
+ "image":"tilesets\/WA_Special_Zones.png",
  "imageheight":64,
  "imagewidth":192,
  "margin":0,
@@ -8,6 +8,16 @@
  "tilecount":12,
  "tiledversion":"1.10.2",
  "tileheight":32,
+ "tiles":[
+        {
+         "id":2,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }]
+        }],
  "tilewidth":32,
  "type":"tileset",
  "version":"1.10"
